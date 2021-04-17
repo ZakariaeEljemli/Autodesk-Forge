@@ -1,4 +1,4 @@
-# DeleteWDoors Sample (Design Automation Version)
+# DeleteDoors Sample (Design Automation Version)
 
 [![.net](https://img.shields.io/badge/.net-4.7|4.8-green.svg)](http://www.microsoft.com/en-us/download/details.aspx?id=30653)
 [![visual studio](https://img.shields.io/badge/Visual%20Studio-2017|2019-green.svg)](https://www.visualstudio.com/)
