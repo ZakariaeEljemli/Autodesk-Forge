@@ -1,0 +1,12 @@
+D:\Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\DeleteDoors.csprojAssemblyReference.cache
+D:\Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\DeleteDoors.csproj.CoreCompileInputs.cache
+D:\Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\bin\Debug\Autodesk.DeleteDoors.Command.dll
+D:\Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\bin\Debug\Autodesk.DeleteDoors.Command.pdb
+D:\Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\Autodesk.DeleteDoors.Command.dll
+D:\Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\Autodesk.DeleteDoors.Command.pdb
+D:\Formations & Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\bin\Debug\Autodesk.DeleteDoors.Command.dll
+D:\Formations & Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\bin\Debug\Autodesk.DeleteDoors.Command.pdb
+D:\Formations & Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\DeleteDoors.csproj.CoreCompileInputs.cache
+D:\Formations & Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\Autodesk.DeleteDoors.Command.dll
+D:\Formations & Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\Autodesk.DeleteDoors.Command.pdb
+D:\Formations & Attestations\Autodesk Forge Mastering\forge-deletewalls-designautomation\Desktop_Version\DeleteWallsApp\obj\Debug\DeleteDoors.csprojAssemblyReference.cache

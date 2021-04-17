@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="DBApplication">
+    <Name>Delete Doors</Name>
+    <Assembly>.\Autodesk.DeleteDoors.Command.dll</Assembly>
+    <Text>Delete Doors</Text> 
+    <AddInId>50930344-E64B-4AF6-9AD8-3D23311D4B56</AddInId>
+     <FullClassName>DeleteDoors.DeleteDoorsApp</FullClassName>
+    <Description>"Deletes Doors"</Description>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>
+       https://forge.autodesk.com/en/docs/design-automation/v3/tutorials/revit/
+    </VendorDescription>
+  </AddIn>
+</RevitAddIns>
