@@ -1,0 +1,7 @@
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\obj\Debug\DeleteDoors.csprojAssemblyReference.cache
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\obj\Debug\DeleteDoors.csproj.CoreCompileInputs.cache
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\bin\Debug\DeleteDoors.Addin
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\bin\Debug\Autodesk.DeleteDoors.Command.dll
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\bin\Debug\Autodesk.DeleteDoors.Command.pdb
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\obj\Debug\Autodesk.DeleteDoors.Command.dll
+D:\Formations & Attestations\Autodesk Forge Mastering\Autodesk Forge GitHub\Autodesk-Forge\Design-Automation\Desktop_Version\DeleteDoors\DeleteDoors\obj\Debug\Autodesk.DeleteDoors.Command.pdb

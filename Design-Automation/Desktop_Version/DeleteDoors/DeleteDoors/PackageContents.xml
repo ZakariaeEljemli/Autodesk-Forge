@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage>
+	<Components Description="Delete Doors">
+		<RuntimeRequirements OS="Win64"
+							 Platform="Revit"
+							 SeriesMin="R2021"
+							 SeriesMax="R2021" />
+		<ComponentEntry AppName="DeleteDoors"
+						Version="1.0.0"
+						ModuleName="./DeleteDoors.addin"
+						AppDescription="Deletes all doors"
+						LoadOnCommandInvocation="False"
+						LoadOnRevitStartup="True" />
+	</Components>
+</ApplicationPackage>
