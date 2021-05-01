@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="DBApplication">
     <Name>Delete Doors</Name>
@@ -9,7 +9,7 @@
     <Description>"Deletes Doors"</Description>
     <VendorId>ADSK</VendorId>
     <VendorDescription>
-       https://forge.autodesk.com/en/docs/design-automation/v3/tutorials/revit/
+       https://www.linkedin.com/in/eljemli/
     </VendorDescription>
   </AddIn>
 </RevitAddIns>
